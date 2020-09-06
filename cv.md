@@ -36,3 +36,6 @@ console.log( factorial(3) );
 * [Drivery Site](https://github.com/mylostandromeda/mylostandromeda.github.io/tree/master/drivery)
 * [Meandr Site](https://github.com/mylostandromeda/mylostandromeda.github.io/tree/master/Meandr)
 * [Mountain Site](https://github.com/mylostandromeda/mylostandromeda.github.io/tree/master/mountain)
+
+**Education:**
+* [Angular](https://www.vladilen.dev/angular)
