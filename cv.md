@@ -39,3 +39,9 @@ console.log( factorial(3) );
 
 **Education:**
 * [Angular](https://www.vladilen.dev/angular)
+
+**English:**
+
+**Level** - *B2*
+
+*Unfortunately, I had no practice in communicating in English.*
